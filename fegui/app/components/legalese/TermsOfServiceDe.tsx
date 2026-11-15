@@ -94,7 +94,7 @@ function TermsOfServiceDe() {
       <h2>Quellcode</h2>
       <p>
         Der Quellcode von Twotle ist auf{" "}
-        <a href="https://github.com/Squoss/Twotle" target="GitHub" rel="noreferrer noopener">
+        <a href="https://github.com/DevelopingWebApplications/Twotle" target="GitHub" rel="noreferrer noopener">
           GitHub
         </a>{" "}
         unter der MIT-Lizenz veröffentlicht. Diese Bedingungen schränken keines der Rechte aus dieser Lizenz ein. Sie

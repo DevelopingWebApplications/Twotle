@@ -3,7 +3,7 @@ name: Deliver to GHCR
 on:
   workflow_run:
     branches: [ main ]
-    workflows: ["Scan"]
+    workflows: ["Test"]
     types: [completed]
   workflow_dispatch:
 
@@ -31,4 +31,4 @@ jobs:
         uses: docker/build-push-action@c3c9e263c25d99ce0380d002d59b67737d91b0dc # v7.4.0
         with:
           push: true
-          tags: ghcr.io/squoss/twotle:latest
+          tags: ghcr.io/developingwebapplications/twotle:latest

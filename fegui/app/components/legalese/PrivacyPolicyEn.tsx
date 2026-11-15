@@ -196,7 +196,7 @@ function PrivacyPolicyEn() {
       <p>
         This policy changes when what is processed changes, and the current version is always the one here. Every
         change can be traced in the public{" "}
-        <a href="https://github.com/Squoss/Twotle" target="GitHub" rel="noreferrer noopener">
+        <a href="https://github.com/DevelopingWebApplications/Twotle" target="GitHub" rel="noreferrer noopener">
           repository on GitHub
         </a>
         .

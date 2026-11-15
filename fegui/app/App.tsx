@@ -204,7 +204,7 @@ function App(props: {}) {
                 </div>
                 <a
                   className="btn-outline theme-inverse"
-                  href="https://github.com/Squoss/Twotle"
+                  href="https://github.com/DevelopingWebApplications/Twotle"
                   target="GitHub"
                   rel="noreferrer noopener"
                 >

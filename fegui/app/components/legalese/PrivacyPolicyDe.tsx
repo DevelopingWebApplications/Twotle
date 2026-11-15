@@ -205,7 +205,7 @@ function PrivacyPolicyDe() {
       <p>
         Diese Erklärung ändert sich, wenn sich ändert, was bearbeitet wird, und gültig ist stets die Fassung an dieser
         Stelle. Jede Änderung lässt sich im öffentlichen{" "}
-        <a href="https://github.com/Squoss/Twotle" target="GitHub" rel="noreferrer noopener">
+        <a href="https://github.com/DevelopingWebApplications/Twotle" target="GitHub" rel="noreferrer noopener">
           Repository auf GitHub
         </a>{" "}
         nachvollziehen.

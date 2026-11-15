@@ -181,7 +181,7 @@ Import the hexagon via `@twotle/hexagon` (the `hexagon/src/index.ts` barrel), ne
   - Hence there is no cookie banner: the site only sets cookies it needs (`PLAY_SESSION` for the CSRF token) or that store a choice (`PLAY_LANG`), and stores nothing else in the browser.
   - The site makes no third-party requests (the CSP's origins are all `'self'`), and the notification adapters log no recipients.
   - So a change to cookies, browser storage, third-party requests (the CSP's origins), log contents, stored data, or providers (e.g., `di.sms`, the MongoDB host) must update both locales of the privacy policy (`components/legalese/`), and the two locales must say the same.
-  - Facts only Squeng AG can supply go in as `{TODO: …}` placeholders. Since CI delivers main to GHCR (`ghcr.io/squoss/twotle:latest`), `grep -rn "{TODO" fegui/app/components/legalese` must come back empty before committing.
+  - Facts only Squeng AG can supply go in as `{TODO: …}` placeholders. Since CI delivers main to GHCR (`ghcr.io/developingwebapplications/twotle:latest`), `grep -rn "{TODO" fegui/app/components/legalese` must come back empty before committing.
 
 #### Gotchas
 

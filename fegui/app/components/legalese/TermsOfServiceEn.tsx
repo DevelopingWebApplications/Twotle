@@ -91,7 +91,7 @@ function TermsOfServiceEn() {
       <h2>Source code</h2>
       <p>
         Twotle's source code is published on{" "}
-        <a href="https://github.com/Squoss/Twotle" target="GitHub" rel="noreferrer noopener">
+        <a href="https://github.com/DevelopingWebApplications/Twotle" target="GitHub" rel="noreferrer noopener">
           GitHub
         </a>{" "}
         under the MIT license. These terms do not restrict any right under that license. They govern the service that
